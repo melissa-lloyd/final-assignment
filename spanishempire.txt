@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head> 
+<meta charset="utf-8">
+<title> Spanish Empire </title>
+<style>
+
+body {	background-color: rgb(249, 233, 212);
+	font-size: 20px;
+	font-family: helvetica, serif;
+	padding-left: 20px;
+	padding-right: 20px;}
+
+h1 {	color: rgb(100, 0, 0);
+	font-size: 40px;
+	font-family: fantasy, serif;
+	text-align: center;}
+
+h2 {	color: rgb(100, 0, 0);
+	font-size: 25px;
+	font-family: fantasy, serif;}
+
+#menu-bar {	width: 100%;
+		background-color: rgb(249, 149, 54);
+		border-bottom: 2px solid black;
+		padding-bottom: 10px;
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		text-align: center;
+		z-index: 2;}
+.table-of-contents {width: 100%}
+
+.flag {	width: 300px;
+	float: right;
+	border: 5px groove rgb(100, 0, 0);
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;}
+.extent {	width: 600px;
+		border: 5px groove rgb(100, 0, 0);
+		margin: 10px;}
+
+table {	width:100%;
+	background-color: white;}
+#video {	text-align: center;}
+#extent {	width: 100%;
+		text-align: center;}
+
+
+</style>
+</head>
+
+<body>
+
+<!-- the first div is the menu banner -->
+
+<div id="menu-bar">
+<h1>The Spanish Empire</h1>
+<table class="table-of-contents">
+<thead>
+	<tr>
+		<th> <a href="spanishempire.html">The Spanish Empire</a>		</th>
+		<th> <a href="northamerica.html">Colonies in North and Central America</a>		</th>
+		<th> <a href="southamerica.html">Colonies in South America</a>	</th>
+		<th> <a href="europe.html">Colonies in Europe, Africa, Asia, and Oceania</a>	</th>
+		<th> <a href="test.html">Test your knowledge</a>	</th>
+	</tr>
+</thead>
+</table>
+</div>
+<br> <br> <br> <br> <br> <br> <br>
+<img class="flag" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Cross_of_Burgundy.svg" alt="Spanish Empire flag">
+<h2> What was the Spanish Empire?</h2>
+<p> The Spanish Empire were the territories under the Spanish monarchy from the late 15th century up until the 19th century. 
+It became a global power, dominating the oceans and colonies in America, Europe, Africa, Asia and Oceania. 
+Spain enjoyed a cultural golden age in the sixteenth and seventeenth centuries when silver and gold from American mines increasingly financed a long series of European and North African wars. 
+Until the eighteenth century, the Spanish empire was the largest in the world, although it suffered fluctuating military and economic fortunes. 
+Numerous conflicts and a weak central governemnt lead Spain to lose its colonies and worldly influence.</p>
+<p> Info from: <a href="https://www.newworldencyclopedia.org/entry/Spanish_Empire">https://www.newworldencyclopedia.org/entry/Spanish_Empire</a></p>
+
+<!-- Video on the spanish empire -->
+<div id="video">
+<iframe width="727" height="409" src="https://www.youtube.com/embed/rjhIzemLdos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+
+<h2>What were the goals for colonization?</h2>
+<ol>
+	<li>Increase <strong>trade</strong> for Spain
+		<br>Even though their new territory was not Asia like they thought it was, it still allowed them to create new trade routes and trade entirely new products.</li>
+	<li>Spread <strong>religion</strong>
+		<br>As Catholics, Spanish colonists felt they had to "save" the natives by spreading their religion, preventing the Protestants from doing the same at all costs</li>
+	<li>Exploit the <strong>resources</strong> of the newly-found land
+		<br>They were looking for precious metals, gold and silver, and to their fortune, they found extremely rich deposits in their colonies.</li>
+</ol>
+</body>
+
+<br>
+<div id="extent">
+<h2>Extent of the Empire</h2>
+<img class="extent" src="https://media.giphy.com/media/Xq59RHnRhCv04/giphy.gif" alt="Extent of the Spanish Empire">
+</div>
+<br>
+
+<h2>Countries that were part of the Spanish Empire</h2>
+
+<table border=1>
+<thead>
+	<tr>
+		<th>North America</th>
+		<th>Central America</th>
+		<th>Islands in the Carribean</th>
+		<th>South America</th>
+		<th>Europe</th>
+		<th>Africa</th>
+		<th>Asia and Oceania</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>USA<br>Mexico</td>
+		<td>Guatemala<br>Belize<br>Nicaragua<br>El Salvador<br>Honduras<br>Costa Rica<br>Panama</td>
+		<td>Cuba<br>Dominican Republic<br>Puerto Rico<br>Haiti<br>Jamaica<br>Trinidad and Tobago</td>
+		<td>Colombia<br>Venezuela<br>Ecuador<br>Peru<br>Bolivia<br>Uruguay<br>Paraguay<br>Argentina<br>Chile</td>
+		<td>Netherlands<br>Luxembourg<br>Italy<br>Belgium</td>
+		<td>Morocco<br>Equatorial Guinea</td>
+		<td>Philippines<br>Guam</td>	
+	</tr>
+</tbody>
+</table>
+
+<html/>
